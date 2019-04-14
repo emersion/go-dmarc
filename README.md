@@ -4,6 +4,8 @@
 
 A DMARC library for Go.
 
+> **Note**: this repository has been migrated to https://github.com/emersion/go-msgauth
+
 ## License
 
 MIT
